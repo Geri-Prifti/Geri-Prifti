@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Geri-Prifti
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML/CSS/JS/REACT
-- 📫 How to reach me: IG: geri.prifti
+- 👋 Hi, I’m Geri
+- 👀 I’m interested in all things DevOps, network engineering and cloud technologies.
 
